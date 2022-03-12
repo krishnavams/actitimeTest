@@ -8,6 +8,6 @@ import com.actitime.genaric.BaseClass;
 public class TestTaskModule extends BaseClass {
 	@Test
 	public void testCreateCustomer() {
-		
+		System.out.println("Abcd");
 	}
 }
